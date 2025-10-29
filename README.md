@@ -35,10 +35,10 @@
 
 <p align="center">
   <a href="https://github.com/anuragazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=[Muniz2504]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Muniz2504&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/anuragazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Muniz2504]&layout=compact&theme=dracula" alt="Top Languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muniz2504&layout=compact&theme=dracula" alt="Top Languages"/>
   </a>
 </p>
 
