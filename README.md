@@ -36,10 +36,10 @@
 
 <p align="center">
   <a href="https://github.com/anuragazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=[Muniz2504]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/anuragazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=dracula" alt="Top Languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Muniz2504]&layout=compact&theme=dracula" alt="Top Languages"/>
   </a>
 </p>
 
@@ -48,10 +48,10 @@
 ### 📬 Get in Touch
 
 <p align="left">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]" target="_blank">
+  <a href="https://linkedin.com/in/[[YOUR_LINKEDIN](https://www.linkedin.com/in/joão-victor-muniz-da-silva-904a37263)]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[YOUR_EMAIL]" target="_blank">
+  <a href="mailto:[Munizjoaov@gmail.com]" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
